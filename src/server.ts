@@ -8,7 +8,7 @@ const targets: Record<string, string> = {
 	'buildon-proxy.vercel.app':
 		'https://buildon-develop-7mwbcnhl4a-ew.a.run.app',
 	'buildon.tech': 'https://buildon-develop-7mwbcnhl4a-ew.a.run.app',
-	'buildon.app': 'https://buildon-7mwbcnhl4a-ew.a.run.app',
+	'buildon.app': 'https://buildon-547agg4qcq-ew.a.run.app',
 };
 
 const proxyMap = Object.fromEntries(
